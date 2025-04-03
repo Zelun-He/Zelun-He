@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zelun-He
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning algorithms
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on any passion projects
 - 📫 How to reach me, zelunhe@gmail.com
 - 😄 Pronouns: He/Him
