@@ -1,4 +1,4 @@
-<h2 align="left">Hey👋! My name is Zelun He. I'm currently a student at Missouri State Unversity studying Computer Science. I'm passionate about software development and am currently diving deep into the world of Artificial Intelligence. I'm always eager to collaborate on any passion projects.</h2>
+<h2 align="left">Hey👋! My name is Zelun He. I recently graduated from Missouri State University with a Bachelor's degree in Computer Science. I'm passionate about software development and am currently diving deep into the world of Artificial Intelligence. I'm always eager to collaborate on any passion projects.</h2>
 
 ###
 
