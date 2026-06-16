@@ -16,7 +16,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
 </div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zelun-He&show_icons=true)
 <br />
 
 <div align="left">
