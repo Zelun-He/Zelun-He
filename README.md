@@ -1,6 +1,7 @@
 <h2 align="left">Hey👋! My name is Zelun He. I recently graduated from Missouri State University with a Bachelor's degree in Computer Science. I'm passionate about software development and am currently diving deep into the world of Artificial Intelligence. I'm currently working for ArrowsUp as a fullstack software engineer, but i'm always eager to collaborate on any passion projects.</h2>
-
+  
 <div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Zelun-HE&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
