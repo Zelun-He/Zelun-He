@@ -16,7 +16,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zelun-He&show_icons=true)
+
 <br />
 
 <div align="left">
@@ -25,6 +25,9 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=zelunhe@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </div>
-
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zelun-HE&show_icons=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Zelun-HE" />
+</div>
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Zelun-HE/Zelun-HE/output/snake.svg" alt="Snake animation" />
