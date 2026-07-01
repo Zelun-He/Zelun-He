@@ -36,7 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
 </div>
 <br />
-
 <div align="left">
   <a href="https://www.linkedin.com/in/zelun-he-2b22351bb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -44,8 +43,7 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=zelunhe@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </div>
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zelun-HE&show_icons=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Zelun-HE" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zelun-HE&theme=react-dark" alt="Activity Graph" />
 </div>
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Zelun-HE/Zelun-HE/output/snake.svg" alt="Snake animation" />
