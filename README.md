@@ -34,4 +34,27 @@
   <img height="160" src="https://streak-stats.demolab.com?user=Zelun-HE" />
 </div>
 <br clear="both">
+<br />
+
+<div align="center">
+  <h3>🧠 Languages I work with</h3>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zelun-HE&amp;theme=github_dark"
+    alt="Most used languages by commits"
+    height="180"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <h3>⚡ What I've been building lately</h3>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Zelun-HE&amp;theme=github-compact&amp;hide_border=true&amp;area=true"
+    alt="Zelun's recent GitHub contribution activity"
+    width="100%"
+  />
+</div>
+
+<br clear="both" />
 <img src="https://raw.githubusercontent.com/Zelun-HE/Zelun-HE/output/snake.svg" alt="Snake animation" />
