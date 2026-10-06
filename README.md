@@ -1,60 +1,105 @@
-<h2 align="left">Hey👋! My name is Zelun He. I recently graduated from Missouri State University with a Bachelor's degree in Computer Science. I'm passionate about software development and am currently diving deep into the world of Artificial Intelligence. I'm currently working for ArrowsUp as a fullstack software engineer, but i'm always eager to collaborate on any passion projects.</h2>
+<h2 align="left">Hey, I’m Zelun 👋</h2>
+
+<p align="left">
+  I recently graduated from Missouri State University with a degree in Computer
+  Science, and I’m now working as a full-stack software engineer at Arrows Up.
+  I enjoy taking an idea and turning it into something people can actually use.
+  Lately, I’ve been exploring AI and finding ways to build it into my projects.
+  If you’re working on something you’re excited about, I’d love to hear about it
+  and see how we could collaborate.
+</p>
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=Zelun-HE&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"
+    alt="Profile views"
+  />
+</p>
+
+<h3 align="left">🛠️ Tools I build with</h3>
+
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Zelun-HE&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="Svelte" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="Visual Studio Code" />
 </div>
-<br />
+
+<h3 align="left">Let’s connect</h3>
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/zelun-he-2b22351bb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/zelun-he-2b22351bb/">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&amp;logo=linkedin&amp;label=&amp;color=0077B5&amp;logoColor=white&amp;style=for-the-badge"
+      height="35"
+      alt="Connect on LinkedIn"
+    />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=zelunhe@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="mailto:zelunhe@gmail.com">
+    <img
+      src="https://img.shields.io/static/v1?message=Gmail&amp;logo=gmail&amp;label=zelunhe@gmail.com&amp;color=D14836&amp;logoColor=white&amp;style=for-the-badge"
+      height="35"
+      alt="Email Zelun"
+    />
+  </a>
 </div>
+
+<br />
+
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=Zelun-HE" />
+  <h3>Keeping the momentum going</h3>
+  <img
+    src="https://streak-stats.demolab.com?user=Zelun-HE"
+    height="160"
+    alt="GitHub contribution streak"
+  />
 </div>
-<br clear="both">
+
 <br />
 
 <div align="center">
   <h3>🧠 Languages I work with</h3>
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zelun-HE&amp;theme=github_dark"
-    alt="Most used languages by commits"
     height="180"
+    alt="Most used languages by commits"
   />
 </div>
 
 <br />
 
 <div align="center">
-  <h3>⚡ What I've been building lately</h3>
+  <h3>When I commit</h3>
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Zelun-HE&amp;theme=github-compact&amp;hide_border=true&amp;area=true"
-    alt="Zelun's recent GitHub contribution activity"
-    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zelun-HE&amp;theme=github_dark&amp;utcOffset=-5"
+    height="180"
+    alt="GitHub commits by time of day"
   />
 </div>
 
-<br clear="both" />
-<img src="https://raw.githubusercontent.com/Zelun-HE/Zelun-HE/output/snake.svg" alt="Snake animation" />
+<br />
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Zelun-HE/Zelun-HE/output/snake.svg"
+    width="100%"
+    alt="Snake animation eating my GitHub contributions"
+  />
+</div>
